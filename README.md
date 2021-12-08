@@ -7,13 +7,7 @@
   <img src="achievements/RSCI_scientific_article.jpg" height="400" />
 </div>
 </details>
-<details>
-<summary>Stats...</summary>
-  
-[![mentoster's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ygrick)]
 
-</details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ygrick&layout=compact)]
 <!--
 **Ygrick/Ygrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
