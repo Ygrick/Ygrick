@@ -1,11 +1,17 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ygrick)](https://github.com/anuraghazra/github-readme-stats)
+[![Ygrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ygrick)]
 <details>
 <summary>I have achievements...</summary>
 <div align="center">
   <img src="achievements/hack1.jpg" height="400" />
   <img src="achievements/RSCI_scientific_article.jpg" height="400" />
 </div>
+</details>
+<details>
+<summary>Stats...</summary>
+  
+[![Ygrick's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ygrick)]
+
 </details>
 <!--
 **Ygrick/Ygrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
