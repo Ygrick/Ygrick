@@ -10,7 +10,7 @@
 <details>
 <summary>Stats...</summary>
   
-[![Ygrick's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ygrick)]
+[![mentoster's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ygrick)]
 
 </details>
 <!--
