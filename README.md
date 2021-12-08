@@ -4,7 +4,7 @@
 <summary>I have achievements...</summary>
 <div align="center">
   <img src="achievements/hack1.jpg" width="200" />
-  <img src="achievements/RSCI_scientific_article.jpg" width="200" />
+  <img src="achievements/RSCI_scientific_article.jpg" width="500" />
 </div>
 </details>
 <!--
