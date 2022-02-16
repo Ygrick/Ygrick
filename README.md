@@ -5,6 +5,8 @@
 <div align="center">
   <img src="achievements/hack1.jpg" height="400" />
   <img src="achievements/RSCI_scientific_article.jpg" height="400" />
+  <img src="achievements/Recomended system.jpg" height="400" />
+  <img src="achievements/брак.jpg" height="400" />
 </div>
 </details>
 
