@@ -2,10 +2,7 @@
 
 <div align="center">
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ygrick&show_icons=true&theme=radical" alt="Ygrick's stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygrick&layout=compact&theme=radical" alt="Top Langs" height="180"/>
-</p>
+<img src="github-metrics.svg" alt="Ygrick's Metrics" width="100%" />
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ygrick&theme=radical" alt="GitHub Streak" />
