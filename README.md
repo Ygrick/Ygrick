@@ -1,26 +1,24 @@
 ### Hi there 👋
-[![Ygrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ygrick)]
-<details>
-<summary>I have achievements...</summary>
+
 <div align="center">
-  <img src="achievements/hack1.jpg" height="400" />
-  <img src="achievements/RSCI_scientific_article.jpg" height="400" />
-  <img src="achievements/Recomended system.jpg" height="400" />
-  <img src="achievements/брак.jpg" height="400" />
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ygrick&show_icons=true&theme=radical" alt="Ygrick's stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygrick&layout=compact&theme=radical" alt="Top Langs" height="180"/>
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ygrick&theme=radical" alt="GitHub Streak" />
+</p>
+
+</div>
+
+<details>
+<summary>🏆 My achievements</summary>
+<div align="center">
+  <img src="achievements/hack1.jpg" height="300" />
+  <img src="achievements/RSCI_scientific_article.jpg" height="300" />
+  <img src="achievements/Recomended system.jpg" height="300" />
+  <img src="achievements/брак.jpg" height="300" />
 </div>
 </details>
-
-<!--
-**Ygrick/Ygrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
